@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Proyecto de GitHub</h1>
+    <p>este es un proceso de registro de commit en la rama colaborador</p>
 </body>
 </html>
 

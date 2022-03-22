@@ -1,4 +1,5 @@
 <?php
 
 $usuario = "Bryan";
-echo $usuario;
+$password = "123456";
+echo $usuario . $password;
