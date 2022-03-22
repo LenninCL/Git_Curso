@@ -9,6 +9,8 @@
 <body>
     <h1>Proyecto de GitHub</h1>
     <p>este es un proceso de registro de commit en la rama colaborador</p>
+    <p>Colaborador envia un saludo</p>
+    <p>para el administrador del proyecto</p>
 </body>
 </html>
 
